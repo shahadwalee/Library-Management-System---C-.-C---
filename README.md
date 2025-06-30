@@ -161,7 +161,7 @@ To set up and run this project locally:
 ![Add New Book](screenshots/add_book.png)
 
 ### All Books List
-![All Books List](screenshots/book_list.png)
+![All Books List](screenshots/BOOK_list.png)
 
 ### Find Book Details
 ![Find Book Details](screenshots/book_details.png)
